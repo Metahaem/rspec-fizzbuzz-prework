@@ -1,4 +1,4 @@
-def fizzbuzz("entry")
+def fizzbuzz(entry)
  if entry % 3 == 0 && entry % 5 != 0
   return "Fizz"
  else if entry % 5 == 0 && entry % 3 != 0
